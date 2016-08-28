@@ -1,0 +1,37 @@
+.up {
+	height: 200px;
+	width: 400px;
+	display: inline-block;
+	border: 1px solid black;
+}
+
+.green {
+	background-color: green;
+}
+
+.blue {
+	background-color: blue;
+}
+
+.down {
+	height: 300px;
+	width: 266px;
+	display: inline-block;
+	border: 1px solid black;
+}
+
+.grey {
+	background-color: grey;
+}
+
+.black {
+	background-color: black;
+}
+
+.orange {
+	background-color: orange;
+}
+
+.centered {
+	text-align: center;
+}
